@@ -2,11 +2,9 @@ package com.capgemini;
 
 public class MyApp {
 
-	/**
-	 * @param args
-	 */
+	//this is my second commit
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		
 		System.out.println("welcome");
 
